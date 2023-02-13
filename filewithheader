@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>file with header</title>
@@ -6,6 +6,7 @@
 <meta name="keywords" content="html tutorial template">
 </head>
 <body>
+<h1>This is a Heading</h1>
 <p> hello </p>
 </body>
 </html>
